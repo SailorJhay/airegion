@@ -4,7 +4,7 @@ AIRegion, an AI chatbot management dApp, integrates Areon resources to create AI
 * [Website](http://airegion.xyz).
 * Video: https://youtu.be/yIm0Ug2kzCI
 * Source code: https://github.com/laashad/airegion
-* PDF doc: https://github.com/laashad/airegion/docs/AIRegion.pdf
+* PDF doc: https://github.com/laashad/airegion/blob/main/docs/AIRegion.pdf
   
 #### Problems Identified in the Areon Ecosystem:
 
@@ -27,7 +27,7 @@ AIRegion, an AI chatbot management dApp, integrates Areon resources to create AI
 * [Website](http://airegion.xyz).
 * Video: https://youtu.be/yIm0Ug2kzCI
 * Source code: https://github.com/laashad/airegion
-* PDF doc: https://github.com/laashad/airegion/docs/AIRegion.pdf
+* PDF doc: https://github.com/laashad/airegion/docs/AIRegion.pdf](https://github.com/laashad/airegion/blob/main/docs/AIRegion.pdf
 * [Control Panel to customize AI](http://airegion.xyz/control) (Login with Areon Tesnet)
 * [Simple website that embeds AIRegion chat bot](http://airegion.xyz/test) + [its source code](https://github.com/laashad/airegion/blob/main/src/frontend/src/routes/test/test.html).
 * [Setup](https://github.com/laashad/airegion/blob/main/docs/setup.md).
